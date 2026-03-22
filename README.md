@@ -5,7 +5,7 @@ FY IT Student<br>
 IIT Vishrambagh</p>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-<center><img src="banner.jpg" width="736" height="653" alt="linktree logo"></center>
+<img src="banner.jpg" width="736" height="653" alt="linktree logo" align="center">
 <div align="center">
   <p>
   <b>Information Technology Engineering Student<br>  
