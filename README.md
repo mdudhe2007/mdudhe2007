@@ -71,8 +71,6 @@ Constantly improving my abilities through active learning and project-based expe
 
 ### GitHub Activity
 
-
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdudhe2007&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"/>
 <div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=mdudhe2007&theme=dark&hide_border=true"/> </div>
 
