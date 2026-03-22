@@ -36,15 +36,22 @@ Constantly improving my abilities through active learning and project-based expe
 
 ### Skills
 
+<p align = 'right'>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9uenVxanQ2eG52bXNyOGY4OW83ZDNidnJoY3EwbGdob2M2ZWwwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4AwFO4f2VLo2fIFFA2/giphy.gif" width="35%">
+</p>
+
 ### Programming Language
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
 <img src="https://img.shields.io/badge/Assembly-Language-grey?style=for-the-badge"/>
+
 ### Frontend
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+
+
 
 ### Tools
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
@@ -63,6 +70,9 @@ Constantly improving my abilities through active learning and project-based expe
 </p>
 
 ### GitHub Activity
+
+
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdudhe2007&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"/>
 <div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=mdudhe2007&theme=dark&hide_border=true"/> </div>
 
