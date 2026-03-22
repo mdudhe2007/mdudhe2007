@@ -20,6 +20,7 @@ Constantly improving my abilities through active learning and project-based expe
 <p align = 'right'>
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXR0d3Q3ajRlMzh1NzIyOHp4OHRzZjh1enFkaGg0djR6MGxoZHhsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="35%">
 </p>
+    
 ### About Me
 
 - 🔭 FY IT Student 
@@ -32,13 +33,14 @@ Constantly improving my abilities through active learning and project-based expe
 <p align="center">
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true"/>
 </p>
+
 ### Skills
 
 ### Programming Language
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
-
+<img src="https://img.shields.io/badge/Assembly-Language-grey?style=for-the-badge"/>
 ### Frontend
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
