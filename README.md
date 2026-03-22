@@ -1,23 +1,20 @@
 ## Hi there 👋
   <h1 align="center">Hi 👋, I am Maharudra aka DuduBoiii</h1>
 <p align="center">
-Information Technology Engineering Student <br>
-Passionate about Full Stack Development 🚀
-  <br>
-
-<img src="banner.jpg" width="900" height="400" alt="linktree logo">
+FY IT Student<br>
+IIT Vishrambagh</p>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="banner.jpg" width="736" height="653" alt="linktree logo">
 <div align="center">
   <p>
-  <b>Information Technology Engineering Student><br>  
+  <b>Information Technology Engineering Student<br>  
 Enthusiastic about full-stack development and developing impactful real-world solutions.<br>
 Constantly improving my abilities through active learning and project-based experience.
   </p>
 </div>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p>
-<p align='center'>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="640px" height="200">
 </p>
 <p align = 'right'>
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXR0d3Q3ajRlMzh1NzIyOHp4OHRzZjh1enFkaGg0djR6MGxoZHhsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="35%">
@@ -55,6 +52,8 @@ Constantly improving my abilities through active learning and project-based expe
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg)
 
+### 🎨 Design Tools
+![](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <p align="center">
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true"/>
@@ -72,7 +71,7 @@ Constantly improving my abilities through active learning and project-based expe
 
 ### Social Media
 <p align="center">
-  <a href="https://www.instagram.com/maharudra_123">
+  <a href="https://www.instagram.com/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/maharudradudhe">
