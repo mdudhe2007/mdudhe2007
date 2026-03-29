@@ -73,9 +73,14 @@ Constantly improving my abilities through active learning and project-based expe
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdudhe2007&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"/>
 
-<div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=mdudhe2007&theme=dark&hide_border=true"/> </div>
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdudhe2007&theme=dracula&margin-w=15&margin-h=15" alt=""/>
+</p>
+<br>
+<img src="https://pacman.abozanona.me?username=mdudhe2007" />
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=mdudhe2007&theme=dark" alt="GitHub Streak" />
+</p>
 <p align="center">
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true"/>
 </p>
