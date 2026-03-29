@@ -77,7 +77,7 @@ Constantly improving my abilities through active learning and project-based expe
   <img src="https://github-profile-trophy.vercel.app/?username=mdudhe2007&theme=dracula&margin-w=15&margin-h=15" alt=""/>
 </p>
 <br>
-<img src="https://pacman.abozanona.me?username=mdudhe2007" />
+
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=mdudhe2007&theme=dark" alt="GitHub Streak" />
 </p>
@@ -105,4 +105,7 @@ Constantly improving my abilities through active learning and project-based expe
 
   
 </p>
-
+<p align="center">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true"/>
+</p>
+<img src="https://pacman.abozanona.me?username=mdudhe2007" />
