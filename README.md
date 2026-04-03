@@ -18,7 +18,7 @@ Constantly improving my abilities through active learning and project-based expe
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 <p align = 'right'>
-<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXR0d3Q3ajRlMzh1NzIyOHp4OHRzZjh1enFkaGg0djR6MGxoZHhsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="35%">
+<img alt="HackerRank"align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXR0d3Q3ajRlMzh1NzIyOHp4OHRzZjh1enFkaGg0djR6MGxoZHhsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="35%">
 </p>
     
 ### About Me
@@ -91,17 +91,23 @@ Constantly improving my abilities through active learning and project-based expe
   <a href="https://www.instagram.com/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/maharudradudhe">
+  <a href="https://www.linkedin.com/in/maharudra-dudhe-69320033a/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30"/>
   </a>
-  <a href="https://youtube.com/@innovationhub2007">
+  <a href="https://youtube.com/@mdinnovationhub">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30"/>
   </a>
   <a href="https://codeforces.com/profile/mdudhe2007">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30"/>
   </a>
-  <a href="https://leetcode.com/u/maharudradudhe/">
+  <a href="https://leetcode.com/u/md2203">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30"/>
+ <a href="https://www.codechef.com/users/kine_noble_91"></a>
+    <img src="https://img.icons8.com/color/512/codechef.png" width="42" height="30"/></a>
+     <a href="https://www.hackerrank.com/profile/mdudhe2007">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg.svg" width="42" height="30"/>
+ 
+    
 
   
 </p>
