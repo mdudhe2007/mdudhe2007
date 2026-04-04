@@ -62,8 +62,15 @@ Constantly improving my abilities through active learning and project-based expe
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg)
 
-### 🎨 Design Tools
+### Design Tools
 ![](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Software/blender.svg" height="30px" width="30px">
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Software/figma.svg" height="30px" width="30px">
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Software/photoshop.svg" height="30px" width="30px">
+
+### IoT
+
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Other/arduino.svg" height="30px" width="30px">
 
 <p align="center">
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true"/>
