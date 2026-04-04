@@ -63,14 +63,30 @@ Constantly improving my abilities through active learning and project-based expe
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg)
 
 ### Design Tools
-![](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Software/blender.svg" height="30px" width="30px">
-<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Software/figma.svg" height="30px" width="30px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Canva_logo.svg/3840px-Canva_logo.svg.png" height="40px" width="60px">   
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Software/blender.svg" height="30px" width="30px">   
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Software/figma.svg" height="30px" width="30px">     
 <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Software/photoshop.svg" height="30px" width="30px">
 
 ### IoT
 
 <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Other/arduino.svg" height="30px" width="30px">
+
+<p align="center">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true"/>
+</p>
+
+### LEETCODE
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/md2203?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+### CODEFORCES
+
+<p align="center">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=mdudhe2007" alt="Codeforces Stats" />
+</p>
 
 <p align="center">
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true"/>
