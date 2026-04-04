@@ -102,7 +102,7 @@ Constantly improving my abilities through active learning and project-based expe
   </a>
   <a href="https://leetcode.com/u/md2203">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30"/>
- <a href="https://www.codechef.com/users/kine_noble_91"></a>
+ <a href="https://www.codechef.com/users/kine_noble_91">
     <img src="https://img.icons8.com/color/512/codechef.png" width="42" height="30"/></a>
      <a href="https://www.hackerrank.com/profile/mdudhe2007">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg.svg" width="42" height="30"/>
