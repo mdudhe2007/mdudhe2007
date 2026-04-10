@@ -1,7 +1,5 @@
   <h1 align="center">Hi 👋, I am Maharudra aka DuduBoiii</h1>
-<p align="center">
-FY IT Student<br>
-IIT Vishrambagh</p>
+
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <div align="center">
