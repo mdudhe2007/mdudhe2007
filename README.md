@@ -61,6 +61,7 @@ Constantly improving my abilities through active learning and project-based expe
 ### Operating System
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora1.svg)
 
 ### Design Tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Canva_logo.svg/3840px-Canva_logo.svg.png" height="40px" width="60px">   
