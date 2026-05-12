@@ -3,7 +3,14 @@
 FY IT Student<br>
 IIT Vishrambagh</p>
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+<p>
+  <a href="https://komarev.com/ghpvc/?username=mdudhe2007&label=Profile%20views&color=0e75b6&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=mdudhe2007&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/mdudhe2007?tab=followers"><img src="https://img.shields.io/github/followers/dhairyagothi?logo=github&style=for-the-badge" alt="GitHub followers" /></a>
+  <a href="https://github.com/mdudhe2007?tab=repositories"><img src="https://img.shields.io/github/stars/mdudhe2007?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="Total stars" /></a>
+</p>
+
 <div align="center">
 <img src="banner.jpg" width="736" height="653" alt="linktree logo" align="center">
 </div>
@@ -93,21 +100,38 @@ Constantly improving my abilities through active learning and project-based expe
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true"/>
 </p>
 
-### GitHub Activity
+## 📈 GitHub Analytics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdudhe2007&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"/>
+<div align="center">
+
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdudhe2007&theme=react" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdudhe2007&theme=react" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdudhe2007&theme=react" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdudhe2007&theme=react" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdudhe2007&theme=react&utcOffset=8" alt="Productive Time" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdudhe2007&theme=dracula&margin-w=15&margin-h=15" alt=""/>
+   <img height="180em" src="https://github-readmeapp.vercel.app/api?username=mdudhe2007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 </p>
-<br>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=mdudhe2007&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mdudhe2007&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+
 <p align="center">
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mdudhe2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 </p>
+
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=dhairyagothi&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/mdudhe2007)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+</div>
 
 
 ### Social Media
