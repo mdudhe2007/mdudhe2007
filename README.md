@@ -126,7 +126,7 @@ Constantly improving my abilities through active learning and project-based expe
   <img src="https://github-profile-trophy.vercel.app/?username=mdudhe2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 </p>
 
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=dhairyagothi&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/mdudhe2007)
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=mdudhe2007&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/mdudhe2007)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
