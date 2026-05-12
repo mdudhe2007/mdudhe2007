@@ -3,7 +3,7 @@
 FY IT Student<br>
 IIT Vishrambagh</p>
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=mdudhe2007&label=Profile%20views&color=0e75b6&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=mdudhe2007&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
@@ -22,7 +22,7 @@ Constantly improving my abilities through active learning and project-based expe
   </p>
 </div>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=900px&section=header"/>
 </p>
 <p align = 'right'>
 <img alt="HackerRank"align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXR0d3Q3ajRlMzh1NzIyOHp4OHRzZjh1enFkaGg0djR6MGxoZHhsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="35%">
@@ -38,7 +38,7 @@ Constantly improving my abilities through active learning and project-based expe
 - ⚡ Web Techology
 
 <p align="center">
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
 
 ### Skills
@@ -81,7 +81,7 @@ Constantly improving my abilities through active learning and project-based expe
 <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Other/arduino.svg" height="30px" width="30px">
 
 <p align="center">
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
 
 ### LEETCODE
@@ -97,14 +97,14 @@ Constantly improving my abilities through active learning and project-based expe
 </p>
 
 <p align="center">
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<h3>📊 GitHub Stats</h3>
+<h3>GitHub Stats</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdudhe2007&theme=react" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdudhe2007&theme=react" alt="Repos per Language" />
