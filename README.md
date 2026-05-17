@@ -69,9 +69,7 @@ Currently Learning:
 
 ### Skills
 
-<p align = 'right'>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9uenVxanQ2eG52bXNyOGY4OW83ZDNidnJoY3EwbGdob2M2ZWwwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4AwFO4f2VLo2fIFFA2/giphy.gif" width="35%">
-</p>
+
 
 ### Programming Language
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
@@ -80,6 +78,11 @@ Currently Learning:
 <img src="https://img.shields.io/badge/Assembly%20Language-555555?style=for-the-badge&logo=assemblyscript&logoColor=white&labelColor=222"/>
 
 ### Frontend
+<p align = 'right'>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9uenVxanQ2eG52bXNyOGY4OW83ZDNidnJoY3EwbGdob2M2ZWwwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4AwFO4f2VLo2fIFFA2/giphy.gif" width="35%">
+</p>
+
+
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
