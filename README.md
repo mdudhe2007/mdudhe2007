@@ -3,7 +3,7 @@
 
 <!-- ██████████████████████ HERO HEADER ██████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=340&text=MAHARUDRA&fontSize=68&color=0:000000,25:0d0020,55:1e0050,85:3a007a,100:0f0c29&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=◆%20Aka%20DuduBoiii%20‎‎◆%20B.Tech%20IT%20◆&descAlignY=56&descSize=16&stroke=7c3aed&strokeWidth=3"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=340&text=MAHARUDRA&fontSize=68&color=0:000000,25:0d0020,55:1e0050,85:3a007a,100:0f0c29&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=◆%20Aka%20DuduBoiii%20‎‎◆&descAlignY=56&descSize=16&stroke=7c3aed&strokeWidth=3"/>
 
 </div>
 <div align="center">
