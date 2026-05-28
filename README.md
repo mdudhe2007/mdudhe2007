@@ -8,7 +8,7 @@
 </div>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=850&height=55&lines=🚀+FY+B.Tech+IT+%40+IIT+Vishrambagh%2C+Sangli+🇮🇳;⚡+Learning+Full-Stack+Web+Development;🧠+Open+Source+%7C;🎯+Code+Hard.+Build+Real.+Ship+Fast.+Repeat.;💜+Turning+Ideas+Into+Reality+—+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=850&height=55&lines=🚀+FY+B.Tech+IT+%40+IIT+Vishrambagh%2C+Sangli+🇮🇳;⚡+Learning+Full-Stack+Web+Development;🧠+Open+Source;🎯+Code+Hard.+Build+Real.+Ship+Fast.+Repeat.;💜+Turning+Ideas+Into+Reality+—+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 </div>
 
